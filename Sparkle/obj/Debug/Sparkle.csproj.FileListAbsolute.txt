@@ -1,0 +1,9 @@
+C:\Users\hkuhns\Desktop\Playing Around\Sparkle\Sparkle\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\hkuhns\Desktop\Playing Around\Sparkle\Sparkle\obj\Debug\Sparkle.csprojResolveAssemblyReference.cache
+C:\Users\hkuhns\Desktop\Playing Around\Sparkle\Sparkle\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\hkuhns\Desktop\Playing Around\Sparkle\Sparkle\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\hkuhns\Desktop\Playing Around\Sparkle\Sparkle\obj\Debug\Sparkle.csproj.GenerateResource.Cache
+C:\Users\hkuhns\Desktop\Playing Around\Sparkle\Sparkle\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\hkuhns\Desktop\Playing Around\Sparkle\Sparkle\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\hkuhns\Desktop\Playing Around\Sparkle\Sparkle\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\hkuhns\Desktop\Playing Around\Sparkle\Sparkle\obj\Debug\WindowsFormsApplication1.pdb
